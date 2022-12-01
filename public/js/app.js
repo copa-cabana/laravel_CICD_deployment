@@ -2242,7 +2242,7 @@ var render = function render() {
     staticClass: "container"
   }, [_c("h2", {
     staticClass: "text-center"
-  }, [_vm._v("Create product")]), _vm._v(" "), _c("div", {
+  }, [_vm._v("Create new product entry!!!")]), _vm._v(" "), _c("div", {
     staticClass: "row"
   }, [_c("div", {
     staticClass: "col-md-12"
