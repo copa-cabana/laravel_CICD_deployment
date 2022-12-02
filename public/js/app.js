@@ -2304,7 +2304,7 @@ var render = function render() {
     }
   })]), _vm._v(" "), _c("div", {
     staticClass: "form-group"
-  }, [_c("label", [_vm._v("Price")]), _vm._v(" "), _c("input", {
+  }, [_c("label", [_vm._v("Price(#)")]), _vm._v(" "), _c("input", {
     directives: [{
       name: "model",
       rawName: "v-model",
